@@ -18,13 +18,12 @@ commit_message="$fecha_actual: $commit_version: $commit_message"
 git commit -m "$commit_message"
 git push -ufv
 echo "commit --MAIN-- correct"
-sleep 1
-clear
-git switch dev-0125
-git merge main
-git push -ufv
-echo "Repo remoto DEV actualizado."
-sleep 2
-git switch main
+sleep
+# git switch dev-0125
+# git merge main
+# git push -ufv
+# echo "Repo remoto DEV actualizado."
+# sleep 2
+# git switch main
 clear
 git log -1 --oneline
