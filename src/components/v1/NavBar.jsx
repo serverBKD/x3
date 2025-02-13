@@ -47,7 +47,7 @@ export default function NavBar() {
             <article className="w-1/5 h-20 grid place-content-center">
                 <a
                     href="/pay"
-                    className="w-full px-3 py-4 text-sm font-bold text-center uppercase overflow-hidden bg-red-500 hover:bg-red-600 text-slate-200 rounded-md hover:shadow-md hover:shadow-slate-600 hover:underline"
+                    className="w-full px-3 py-4 text-sm font-bold text-center uppercase overflow-hidden bg-cyan-400 hover:bg-cyan-500 text-slate-200 rounded-md hover:shadow-md hover:shadow-slate-600 hover:underline"
                 >
                     Login
                 </a>

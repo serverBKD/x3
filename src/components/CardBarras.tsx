@@ -2,8 +2,8 @@ import React from "react"
 
 export default function CardBarras() {
   return (
-    <section className="bg-sky-400  ">
-      <article className="md:w-full w-sm md:h-48 h-full mx-auto md:gap-y-0 gap-y-6 py-4 md:py-0 border-2 border-red-400 rounded-lg flex md:flex-nowrap flex-wrap items-center justify-between overflow-hidden bg-slate-100">
+    <section className="py-4 bg-slate-200 ">
+      <article className="md:w-full w-xs md:h-48 h-full mx-auto md:gap-y-0 gap-y-6 py-4 md:py-0 border-2 border-red-400 rounded-lg flex md:flex-nowrap flex-wrap items-center justify-between overflow-hidden bg-slate-100 shadow-lg md:shadow-md shadow-slate-500">
         <div className="w-full md:w-1/4 md:h-full h-12 grid place-content-center ">
           <picture className="w-32 h-32 p-2 grid place-content-center rounded-full overflow-hidden bg-slate-100">
             <img
