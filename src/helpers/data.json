@@ -1,0 +1,46 @@
+[
+    {
+        "nombre": "Tech Innovators",
+        "logo": "https://techinnovators.com/logo.png",
+        "url": "https://techinnovators.com",
+        "correo": "contacto@techinnovators.com",
+        "descripcion": "Una empresa líder en soluciones tecnológicas innovadoras.",
+        "numeros_de_contacto": [
+            "+58 212-555-1234",
+            "+58 412-555-5678"
+        ]
+    },
+    {
+        "nombre": "Eco Ventures",
+        "logo": "https://ecoventures.com/logo.png",
+        "url": "https://ecoventures.com",
+        "correo": "info@ecoventures.com",
+        "descripcion": "Empresa dedicada a proyectos sostenibles y energías renovables.",
+        "numeros_de_contacto": [
+            "+58 212-555-8765",
+            "+58 412-555-4321"
+        ]
+    },
+    {
+        "nombre": "Health & Wellness Co.",
+        "logo": "https://healthwellness.com/logo.png",
+        "url": "https://healthwellness.com",
+        "correo": "support@healthwellness.com",
+        "descripcion": "Proveemos productos y servicios para mejorar la salud y el bienestar.",
+        "numeros_de_contacto": [
+            "+58 212-555-1357",
+            "+58 412-555-2468"
+        ]
+    },
+    {
+        "nombre": "Creative Design Studio",
+        "logo": "https://creativedesign.com/logo.png",
+        "url": "https://creativedesign.com",
+        "correo": "hello@creativedesign.com",
+        "descripcion": "Estudio de diseño especializado en branding y diseño gráfico.",
+        "numeros_de_contacto": [
+            "+58 212-555-2468",
+            "+58 412-555-1357"
+        ]
+    }
+]
